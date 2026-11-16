@@ -5,9 +5,9 @@ description: Agentic development does not remove engineering discipline. It move
 pubDate: 2026-11-15T12:00:00.000Z
 ---
 
-There is a paper on arXiv this week that said out loud what I have been trying to explain to people for the past year.
+There is a paper on arXiv I found this week that said out loud what I have been trying to explain to people for the past year.
 
-[SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) by Vu Hung Nguyen and Thanh Nguyen is not a long read, but the central claim is sharp: as frontier coding agents gain larger context windows, the quality of the specification becomes the primary constraint on autonomous delivery. Not the model. Not the tooling. The spec.
+[SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) is not a long read, but the central claim really validates a lot for me: as frontier coding agents gain larger context windows, the quality of the specification becomes the primary constraint on autonomous delivery. Not the model. Not the tooling. The spec.
 
 They are right. I have watched this play out enough times to stop being surprised by it.
 
